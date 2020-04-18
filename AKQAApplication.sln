@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AKQA.Business", "AKQA.Business\AKQA.Business.csproj", "{6EF032B7-FBE0-4CD4-BD30-7278086CFF49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkQA.Logger", "AkQA.Logger\AkQA.Logger.csproj", "{5D656B00-8C4B-4C28-93C8-0DCA4938A485}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AKQA.Test", "AKQA.Test\AKQA.Test.csproj", "{462FCF10-7116-4F55-B4FF-5698D6F0F824}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AKQAWebApplication", "AKQAWebApplication\AKQAWebApplication.csproj", "{0D2350F2-46F3-4DAA-A65A-5D634792A192}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AKQA.Models", "AKQA.Models\AKQA.Models.csproj", "{FC101C57-8B27-4C3E-82AE-E0B98702B0A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AKQA.Contract", "AKQA.Contract\AKQA.Contract.csproj", "{7799D296-E173-43F6-84AF-326A5060B3CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF032B7-FBE0-4CD4-BD30-7278086CFF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF032B7-FBE0-4CD4-BD30-7278086CFF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF032B7-FBE0-4CD4-BD30-7278086CFF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF032B7-FBE0-4CD4-BD30-7278086CFF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D656B00-8C4B-4C28-93C8-0DCA4938A485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D656B00-8C4B-4C28-93C8-0DCA4938A485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D656B00-8C4B-4C28-93C8-0DCA4938A485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D656B00-8C4B-4C28-93C8-0DCA4938A485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462FCF10-7116-4F55-B4FF-5698D6F0F824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462FCF10-7116-4F55-B4FF-5698D6F0F824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462FCF10-7116-4F55-B4FF-5698D6F0F824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462FCF10-7116-4F55-B4FF-5698D6F0F824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2350F2-46F3-4DAA-A65A-5D634792A192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2350F2-46F3-4DAA-A65A-5D634792A192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2350F2-46F3-4DAA-A65A-5D634792A192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2350F2-46F3-4DAA-A65A-5D634792A192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC101C57-8B27-4C3E-82AE-E0B98702B0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC101C57-8B27-4C3E-82AE-E0B98702B0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC101C57-8B27-4C3E-82AE-E0B98702B0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC101C57-8B27-4C3E-82AE-E0B98702B0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7799D296-E173-43F6-84AF-326A5060B3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7799D296-E173-43F6-84AF-326A5060B3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7799D296-E173-43F6-84AF-326A5060B3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7799D296-E173-43F6-84AF-326A5060B3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F2ACB75-C376-4399-90A2-854413F5EF32}
+	EndGlobalSection
+EndGlobal

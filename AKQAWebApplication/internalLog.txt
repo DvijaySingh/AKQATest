@@ -1,0 +1,106 @@
+2020-04-18 12:59:11.2237 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-18 12:59:11.2426 Info Loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-18 12:59:11.3068 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-18 12:59:11.3106 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-18 12:59:11.3106 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-18 12:59:11.3238 Info Loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-18 12:59:11.3457 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.1.1587. Product version: 4.9.1.
+2020-04-18 12:59:11.3457 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-18 12:59:11.3457 Info Message Template Auto Format enabled
+2020-04-18 12:59:11.3609 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-18 12:59:11.5085 Info Adding target FileTarget(Name=alldata)
+2020-04-18 12:59:11.6095 Info Found 22 configuration items
+2020-04-18 13:02:06.1619 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:02:06.3286 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:02:06.4894 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:02:07.5975 Info Reloading configuration...
+2020-04-18 13:02:07.5975 Info Configuring from an XML element in C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication/NLog.config...
+2020-04-18 13:02:07.6058 Info Message Template Auto Format enabled
+2020-04-18 13:02:07.6058 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-18 13:02:07.6058 Info Adding target FileTarget(Name=alldata)
+2020-04-18 13:02:07.6278 Info Closing old configuration.
+2020-04-18 13:02:08.1115 Info Found 22 configuration items
+2020-04-18 13:02:23.5320 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-18 13:02:23.5724 Info Loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-18 13:02:23.6138 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-18 13:02:23.6560 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-18 13:02:23.6560 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-18 13:02:23.6560 Info Loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-18 13:02:23.6756 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.1.1587. Product version: 4.9.1.
+2020-04-18 13:02:23.6756 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-18 13:02:23.6868 Info Message Template Auto Format enabled
+2020-04-18 13:02:23.6868 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-18 13:02:23.8738 Info Adding target FileTarget(Name=alldata)
+2020-04-18 13:02:23.9295 Info Found 22 configuration items
+2020-04-18 13:05:52.1147 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:05:52.3200 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:05:53.3329 Info Reloading configuration...
+2020-04-18 13:05:53.3419 Info Configuring from an XML element in C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication/NLog.config...
+2020-04-18 13:05:53.3419 Info Message Template Auto Format enabled
+2020-04-18 13:05:53.3419 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-18 13:05:53.3419 Info Adding target FileTarget(Name=alldata)
+2020-04-18 13:05:53.3419 Info Closing old configuration.
+2020-04-18 13:05:53.3973 Info Found 21 configuration items
+2020-04-18 13:06:01.5392 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:06:01.7376 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:06:02.7463 Info Reloading configuration...
+2020-04-18 13:06:02.7463 Info Configuring from an XML element in C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication/NLog.config...
+2020-04-18 13:06:02.7463 Info Message Template Auto Format enabled
+2020-04-18 13:06:02.7463 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-18 13:06:02.7623 Info Adding target FileTarget(Name=alldata)
+2020-04-18 13:06:02.7623 Info Closing old configuration.
+2020-04-18 13:06:02.7623 Info Found 20 configuration items
+2020-04-18 13:06:15.1287 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-18 13:06:15.1636 Info Loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-18 13:06:15.2045 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-18 13:06:15.2045 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-18 13:06:15.2045 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-18 13:06:15.2045 Info Loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-18 13:06:15.2277 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.1.1587. Product version: 4.9.1.
+2020-04-18 13:06:15.2330 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-18 13:06:15.2330 Info Message Template Auto Format enabled
+2020-04-18 13:06:15.2577 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-18 13:06:15.4261 Info Adding target FileTarget(Name=alldata)
+2020-04-18 13:06:15.4952 Info Found 20 configuration items
+2020-04-18 13:07:20.9322 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:07:21.1129 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:07:22.1270 Info Reloading configuration...
+2020-04-18 13:07:22.1270 Info Configuring from an XML element in C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication/NLog.config...
+2020-04-18 13:07:22.1365 Info Message Template Auto Format enabled
+2020-04-18 13:07:22.1365 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-18 13:07:22.1365 Info Adding target FileTarget(Name=alldata)
+2020-04-18 13:07:22.1365 Info Closing old configuration.
+2020-04-18 13:07:22.1953 Info Found 22 configuration items
+2020-04-18 13:07:27.3811 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:07:27.5849 Info Configuration file change detected! Reloading in 1000ms...
+2020-04-18 13:07:28.5901 Info Reloading configuration...
+2020-04-18 13:07:28.5901 Info Configuring from an XML element in C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication/NLog.config...
+2020-04-18 13:07:28.5901 Info Message Template Auto Format enabled
+2020-04-18 13:07:28.5901 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-18 13:07:28.6087 Info Adding target FileTarget(Name=alldata)
+2020-04-18 13:07:28.6087 Info Closing old configuration.
+2020-04-18 13:07:28.6087 Info Found 20 configuration items
+2020-04-18 13:07:46.7525 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-18 13:07:46.7761 Info Loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-18 13:07:46.8076 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-18 13:07:46.8110 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-18 13:07:46.8110 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-18 13:07:46.8110 Info Loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-18 13:07:46.8237 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.1.1587. Product version: 4.9.1.
+2020-04-18 13:07:46.8237 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-18 13:07:46.8237 Info Message Template Auto Format enabled
+2020-04-18 13:07:46.8443 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-18 13:07:46.9612 Info Adding target FileTarget(Name=alldata)
+2020-04-18 13:07:46.9961 Info Found 20 configuration items
+2020-04-18 13:10:02.7824 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-18 13:10:02.8586 Info Loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-04-18 13:10:03.0027 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-04-18 13:10:03.0027 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-04-18 13:10:03.0027 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-18 13:10:03.0027 Info Loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-04-18 13:10:03.0531 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.1.1587. Product version: 4.9.1.
+2020-04-18 13:10:03.0531 Info Auto loading assembly file: C:\Users\durgv\source\repos\AKQAApplication\AKQAWebApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-04-18 13:10:03.0631 Info Message Template Auto Format enabled
+2020-04-18 13:10:03.0747 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-18 13:10:03.3746 Info Adding target FileTarget(Name=alldata)
+2020-04-18 13:10:03.4471 Info Found 20 configuration items

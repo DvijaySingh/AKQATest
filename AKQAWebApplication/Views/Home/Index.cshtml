@@ -1,0 +1,100 @@
+﻿@model AKQA.Models.Employee
+@{
+    ViewData["Title"] = "Home Page";
+}
+<head>
+    <script src="~/js/jquery-3.2.1.min.js"></script>
+    <style>
+        .clsCenter {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <section>
+            Input
+            <form id="frmAKQA">
+                <div asp-validation-summary="All" class="danger"></div>
+                <div class="row">
+                    <div class="form-group col-md-4">
+                        <label asp-for="Name"></label>
+                        <input asp-for="Name" class="form-control required" />
+
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-4">
+                        <label asp-for="Salary"></label>
+                        <input asp-for="Salary" class="form-control" />
+                    </div>
+                </div>
+                <div class="row">
+                    <button type="button" id="btnSubmit" class="btn btn-primary"> Show Output</button>
+                </div>
+            </form>
+        </section>
+        <br />
+        <section>
+            Output
+            <div class="row" id="dvOutput">
+                <div class="form-group">
+                    <span id="spName" class="form-control clsCenter"></span>
+                    <span id="spNumberinWords" class="form-control"></span>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+<script>
+    $(document).ready(function () {
+        $('#dvOutput').hide();
+        $("#frmAKQA").validate({
+            rules: {
+                Name: "required",
+                Salary: "required"
+            },
+            messages: {
+                Name: "Please specify your name",
+                Salary: "Please enter number"
+
+            }
+        });
+        $('#Salary').on('input', function () {
+            this.value = this.value.match(/^\d+\.?\d{0,2}/);
+        });
+
+        $('#btnSubmit').click(function () {
+            $('.validation-summary-errors').show();
+            clearFields();
+            if ($("#frmAKQA").valid()) {
+                $('.validation-summary-errors').hide();
+                $('#dvOutput').show();
+                formData = {
+                    Name: $('#Name').val(),
+                    Salary: $('#Salary').val()
+                };
+                $.ajax({
+                    url: 'Home/ConvertNumberToWord',
+                    type: 'post',
+                    data: formData,
+                    success: function (data) {
+                        debugger;
+                        $('#spName').text(data.name);
+                        $('#spNumberinWords').text(data.salaryString);
+                    },
+                    error: function (jqXHR) {
+                    }
+                })
+            }
+
+        });
+    });
+        var clearFields = function () {
+                $('#dvOutput').hide();
+                $('#spName').text('');
+                $('#spNumberinWords').text('');
+
+            }
+</script>
