@@ -27,11 +27,11 @@
                 <div class="row">
                     <div class="form-group col-md-4">
                         <label asp-for="Salary"></label>
-                        <input asp-for="Salary" class="form-control" />
+                        <input asp-for="Salary" class="form-control required" />
                     </div>
                 </div>
                 <div class="row">
-                    <button type="button" id="btnSubmit" class="btn btn-primary"> Show Output</button>
+                    <button type="button" id="btnSubmit" class="btn btn-primary float-right"> Show Output</button>
                 </div>
             </form>
         </section>
@@ -50,17 +50,17 @@
 <script>
     $(document).ready(function () {
         $('#dvOutput').hide();
-        $("#frmAKQA").validate({
-            rules: {
-                Name: "required",
-                Salary: "required"
-            },
-            messages: {
-                Name: "Please specify your name",
-                Salary: "Please enter number"
+        //$("#frmAKQA").validate({
+        //    rules: {
+        //        Name: "required",
+        //        Salary: "required"
+        //    },
+        //    messages: {
+        //        Name: "Please enter your name",
+        //        Salary: "Please enter number"
 
-            }
-        });
+        //    }
+        //});
         $('#Salary').on('input', function () {
             this.value = this.value.match(/^\d+\.?\d{0,2}/);
         });
