@@ -20,7 +20,7 @@
                     data: JSON.stringify(formData),
                     contentType:'application/json',
                     success: function (data) {
-                        $('#spName').text(data.name);
+                        $('#spName').text(data.name.toUpperCase());
                         $('#spNumberinWords').text(data.salaryString);
                     },
                     error: function (jqXHR) {
