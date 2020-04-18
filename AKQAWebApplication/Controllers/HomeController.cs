@@ -21,21 +21,6 @@ namespace AKQAWebApplication.Controllers
             return View();
         }
 
-        public JsonResult ConvertNumberToWord(Employee employee)
-        {
-            try
-            {
-                _log.Information($"Input Name {employee.Name} Input Number {employee.Salary}");
-                employee.SalaryString = _formatNumber.ConvertNumberToWord(employee.Salary);
-                _log.Information($"Word converstion of number is {employee.SalaryString}");
-            }
-            catch(Exception ex)
-            {
-                employee.SalaryString = "System error please try again!";
-                _log.Error("Home controller - ConvertNumberToWord fails", ex);
-            }
-            return Json(employee);
-        }
 
     }
 }

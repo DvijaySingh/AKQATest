@@ -37,20 +37,6 @@ namespace AKQA.Test
            var result= homeController.Index() as ViewResult;
             Assert.IsNull(result.ViewName);
         }
-        [Test]
-        public void When_EnterNameAndNumber()
-        {
-            var result = homeController.ConvertNumberToWord(employee) as JsonResult;
-            Assert.AreEqual(3000M, employee.Salary);
-            Assert.AreEqual(expectedString, employee.SalaryString);
-            Assert.AreEqual("Durg Vijay Singh", employee.Name);
-        }
-        [Test]
-        public void When_ConvertNumberToWord_GetException()
-        {
-            _formatNumber.Setup(s => s.ConvertNumberToWord(It.IsAny<decimal>())).Throws(new System.Exception());
-            var result = homeController.ConvertNumberToWord(employee) as JsonResult;
-            Assert.AreEqual("System error please try again!", employee.SalaryString);
-        }
+        
     }
 }
